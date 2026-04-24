@@ -67,6 +67,3 @@ Just a developer building and learning.
 ![Profile Views](https://komarev.com/ghpvc/?username=Chaingod&color=00D4FF&style=flat-square)
 
 </div>
-````
-
-Just copy this code, create your `Chaingod/Chaingod` repo, and your profile will look amazing! 🎯
