@@ -1,6 +1,4 @@
-Once you create the `Chaingod/Chaingod` repository on GitHub, here's the customized README code you can use:
 
-````markdown name=README.md
 # 👋 Welcome!
 
 <div align="center">
