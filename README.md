@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Just a developer building and learning.
+Just a developer building and learning. Currently reviving Zyruz with alot of new projects on the way.
 
 ---
 
