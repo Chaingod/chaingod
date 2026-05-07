@@ -13,6 +13,12 @@ Just a developer building and learning. Currently reviving Zyruz with alot of ne
 
 ---
 
+## 🚀 Zyruz
+
+https://zyruz.vercel.app/
+
+---
+
 ## 📬 Get In Touch
 
 <div align="center">
